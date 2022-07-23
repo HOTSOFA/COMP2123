@@ -1,0 +1,1 @@
+def Hash_algorithm()
